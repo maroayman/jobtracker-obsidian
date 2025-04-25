@@ -38,8 +38,8 @@ To avoid confusion when applying multiple times to the same company, use the fol
 ✅ **Better Organization** – Prevent confusion between different application
 
 ## Contribution
-Feel free to modify this structure to fit your workflow!
+If you’d like to improve this template, you’re welcome to submit a pull request!
+Feel free to refine folder structures, add helpful scripts, or enhance documentation.
+Your contributions help make JobTracker better for everyone. 
 
 ---
-
-Your **Archived** section now correctly reflects its purpose. Let me know if you need any further tweaks! 🚀
